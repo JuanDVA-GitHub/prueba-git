@@ -1,3 +1,3 @@
-const a ="que pasa!!!!"
+const a ="Que!"
 
 console.log(a);
