@@ -1,3 +1,3 @@
-const a ="que tal!!!!"
+const a ="Que!"
 
 console.log(a);
