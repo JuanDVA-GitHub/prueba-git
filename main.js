@@ -1,3 +1,3 @@
-const a ="que hacesgit add .!"
+const a ="que haces.!"
 
 console.log(a);
