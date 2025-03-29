@@ -1,3 +1,3 @@
-const a ="Que hola commit pruebas!"
+const a ="Que!"
 
 console.log(a);
