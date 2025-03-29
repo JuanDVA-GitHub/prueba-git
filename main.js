@@ -5,4 +5,5 @@ console.log(a);
 while(true){
     console.log("bulce infinot");
 }
+//more changes
 console.log(a);
