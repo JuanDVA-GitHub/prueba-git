@@ -1,3 +1,3 @@
-const a ="que haces.!"
-const b ="que que tal.!"
+const a ="Que!"
+
 console.log(a);
